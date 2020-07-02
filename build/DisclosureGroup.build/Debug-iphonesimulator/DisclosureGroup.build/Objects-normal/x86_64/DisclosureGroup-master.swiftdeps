@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.16.9 clang-1200.0.22.5)"
+options: "71100ef08a7b80f7bef936c64d6575fb"
+build_time: [1593505700, 44366000]
+inputs:
+  "/Users/vothanhsang/Developer/SwiftUI/DisclosureGroup/DisclosureGroup/ContentView.swift": [1593505567, 507316924]
+  "/Users/vothanhsang/Developer/SwiftUI/DisclosureGroup/DisclosureGroup/DisclosureGroupApp.swift": [1593503882, 984951464]
